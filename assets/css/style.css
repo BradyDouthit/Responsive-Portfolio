@@ -314,6 +314,13 @@ hr {
         height: 15px;
         margin-left: 268px;
     }
+    img {
+        clear: both;
+        margin-right: auto;
+        margin-left: 20px;
+        height: 450px;
+        width: 490px;
+    }
   }
 
 
