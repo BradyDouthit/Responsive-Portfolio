@@ -95,6 +95,7 @@ a:hover {
     color: #ffffff;
     border: 1px solid #4aaaa5;
     padding: 5px;
+    width: 75px;
 }
 .flex-container {
     display: flex;
@@ -228,10 +229,19 @@ hr {
 a {
     text-decoration: none;
 }
+textarea {
+    border: 1px solid #dddddd;
+}
+#contact-name {
+    border: 1px solid #dddddd;
+}
+#contact-email {
+    border: 1px solid #dddddd;
+}
 @media only screen and (max-width: 980px) {
     #index-main-content {
       width: 550px;
-      margin-left: 26px;
+      margin-left: 25px;
     }
     .content-push {
         height: 1px;
@@ -308,6 +318,19 @@ a {
     #devices-image {
         margin-left: 20px;
     }
+    #contact-main-content {
+        width: 550px;
+        margin-left: 25px;
+    }
+    textarea {
+        width: 500px;
+    }
+    #contact-name {
+        width: 500px;
+    }
+    #contact-email {
+        width: 500px;
+    }
   }
   @media only screen and (max-width: 768px) {
     #index-main-content {
@@ -332,6 +355,19 @@ a {
     }
     #portfolio-main-content {
         margin-left: auto;
+    }
+    #contact-main-content {
+        width: 700px;
+        margin-left: 15px;
+    }
+    textarea {
+        width: 650px;
+    }
+    #contact-name {
+        width: 650px;
+    }
+    #contact-email {
+        width: 650px;
     }
   }
 @media only screen and (max-width: 640px) {
@@ -429,6 +465,19 @@ a {
     }
     #os-image {
         margin-top: 430px;
+    }
+    #contact-main-content {
+        width: 570px;
+        margin-left: 20px;
+    }
+    textarea {
+        width: 520px;
+    }
+    #contact-name {
+        width: 520px;
+    }
+    #contact-email {
+        width: 520px;
     }
   }
 
