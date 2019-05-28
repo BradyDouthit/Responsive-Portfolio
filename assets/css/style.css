@@ -225,6 +225,9 @@ hr {
 #contact {
     margin-left: 10px;
 }
+a {
+    text-decoration: none;
+}
 @media only screen and (max-width: 980px) {
     #index-main-content {
       width: 550px;
@@ -235,6 +238,7 @@ hr {
     }
     .flex-container {
         width: 680px;
+        margin-top: 30px;
     }
     #name {
         margin-left: 33px;
@@ -247,6 +251,62 @@ hr {
     .navbar {
         margin-left: 670px;
         margin-top: 30px;
+    }
+    #portfolio-main-content {
+        width: 550px;
+        margin-left: 25px;
+    }
+    .portfolio-image {
+        height: 150px;
+        width: 200px;
+    }
+    .row-spacing {
+        margin-left: 0px;
+    }
+    #art-text {
+        width: 200px;
+        margin-left: -215px;
+        margin-top: 90px;
+    }
+    #devices-text {
+        width: 200px;
+        margin-left: -215px;
+        margin-top: 90px;
+    }
+    #mobile-text {
+        width: 200px;
+    }
+    #music-text {
+        width: 200px;
+        margin-top: -90px;
+        margin-left: 270px;
+    }
+    #os-text {
+        width: 200px;
+        margin-top: 90px;
+        margin-left: -450px;
+    }
+    #os-image {
+        margin-top: auto;
+        margin-left: -450px;
+    }
+    #music-image {
+        margin-left: 270px;
+        margin-top: -180px;
+    }
+    #mobile-image {
+        margin-left: -450px;
+        margin-top: 150px;
+    }
+    #mobile-text {
+        margin-left: -450px;
+        margin-top: 240px;
+    }
+    #art-image {
+        margin-left: 35px;
+    }
+    #devices-image {
+        margin-left: 20px;
     }
   }
   @media only screen and (max-width: 768px) {
@@ -269,6 +329,9 @@ hr {
     }
     .content-push {
         height: 30px;
+    }
+    #portfolio-main-content {
+        margin-left: auto;
     }
   }
 @media only screen and (max-width: 640px) {
@@ -320,6 +383,52 @@ hr {
         margin-left: 20px;
         height: 450px;
         width: 490px;
+    }
+    .portfolio-image {
+        height: 400px;
+        width: 450px;
+    }
+    #art-text {
+        width: 450px;
+        margin-left: -450px;
+        margin-top: 330px;
+    }
+    #art-image {
+        margin-left: 30px;
+    }
+    #devices-text {
+        width: 450px;
+        margin-top: 360px;
+        margin-left: -450px;
+    }
+    #devices-image {
+        margin-top: 30px;
+        margin-left: 30px;
+    }
+    #mobile-text {
+        width: 450px;
+        margin-top: 760px;
+        margin-left: -450px;
+    }
+    #mobile-image {
+        margin-top: 430px;
+    }
+    #music-text {
+        width: 450px;
+        margin-top: 330px;
+        margin-left: -450px;
+    }
+    #music-image {
+        margin-left: 30px;
+        margin-top: 1px;
+    }
+    #os-text {
+        margin-left: -450px;
+        margin-top: 760px;
+        width: 450px;
+    }
+    #os-image {
+        margin-top: 430px;
     }
   }
 
