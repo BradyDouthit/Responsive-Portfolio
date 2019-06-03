@@ -103,6 +103,9 @@ a:hover {
     width: 80%;
 }
 .portfolio-image {
+    border: 1px solid #777777;
+}
+.portfolio-image {
     width: 250px;
     height: 200px;
 }
@@ -116,7 +119,7 @@ a:hover {
     text-align: center;
     padding-top: 15px;
     padding-bottom: 15px;
-    margin-left: -265px;
+    margin-left: -266px;
 }
 #art-text:hover {
     background-color: #777777;
@@ -129,12 +132,18 @@ a:hover {
     margin-top: 143px;
     padding-top: 15px;
     padding-bottom: 15px;
-    width: 250px;
+    width: 251px;
     text-align: center;
-    margin-left: -265px;
+    margin-left: -267px;
 }
 #devices-text:hover {
     background-color: #777777;
+}
+#devices-image {
+    width: 251px;
+}
+#music-image {
+    width: 251px;
 }
 #mobile-text {
     position: absolute;
@@ -146,7 +155,7 @@ a:hover {
     padding-bottom: 15px;
     width: 250px;
     text-align: center;
-    margin-left: -265px;
+    margin-left: -266px;
 }
 #mobile-text:hover {
     background-color: #777777;
@@ -159,9 +168,9 @@ a:hover {
     margin-top: 143px;
     padding-top: 15px;
     padding-bottom: 15px;
-    width: 250px;
+    width: 251px;
     text-align: center;
-    margin-left: -265px;
+    margin-left: -267px;
 }
 #music-text:hover {
     background-color: #777777;
@@ -176,7 +185,7 @@ a:hover {
     padding-bottom: 15px;
     width: 250px;
     text-align: center;
-    margin-left: -265px;
+    margin-left: -266px;
 }
 #os-text:hover {
     background-color: #777777;
