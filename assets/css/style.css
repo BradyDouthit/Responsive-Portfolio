@@ -109,7 +109,7 @@ a:hover {
     width: 250px;
     height: 200px;
 }
-#art-text {
+#psychic-text {
     position: absolute;
     color: #ffffff;
     background-color: #4aaaa5;
@@ -121,7 +121,7 @@ a:hover {
     padding-bottom: 15px;
     margin-left: -266px;
 }
-#art-text:hover {
+#psychic-text:hover {
     background-color: #777777;
 }
 #devices-text {
@@ -132,19 +132,14 @@ a:hover {
     margin-top: 143px;
     padding-top: 15px;
     padding-bottom: 15px;
-    width: 251px;
+    width: 250px;
     text-align: center;
-    margin-left: -267px;
+    margin-left: -265px;
 }
 #devices-text:hover {
     background-color: #777777;
 }
-#devices-image {
-    width: 251px;
-}
-#music-image {
-    width: 251px;
-}
+
 #mobile-text {
     position: absolute;
     color: #ffffff;
@@ -282,7 +277,7 @@ textarea {
     .row-spacing {
         margin-left: 0px;
     }
-    #art-text {
+    #psychic-text {
         width: 200px;
         margin-left: -215px;
         margin-top: 90px;
@@ -321,7 +316,7 @@ textarea {
         margin-left: -450px;
         margin-top: 240px;
     }
-    #art-image {
+    #psychic-image {
         margin-left: 35px;
     }
     #devices-image {
@@ -433,12 +428,12 @@ textarea {
         height: 400px;
         width: 450px;
     }
-    #art-text {
+    #psychic-text {
         width: 450px;
         margin-left: -450px;
         margin-top: 330px;
     }
-    #art-image {
+    #psychic-image {
         margin-left: 30px;
     }
     #devices-text {
