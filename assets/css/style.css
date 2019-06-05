@@ -102,7 +102,7 @@ a:hover {
     flex-wrap: wrap;
     width: 80%;
 }
-.portfolio-image {
+#psychic-image {
     border: 1px solid #777777;
 }
 .portfolio-image {
@@ -115,11 +115,11 @@ a:hover {
     background-color: #4aaaa5;
     text-decoration: none;
     margin-top: 143px;
-    width: 250px;
+    width: 251px;
     text-align: center;
     padding-top: 15px;
     padding-bottom: 15px;
-    margin-left: -266px;
+    margin-left: -267px;
 }
 #psychic-text:hover {
     background-color: #777777;
@@ -150,7 +150,7 @@ a:hover {
     padding-bottom: 15px;
     width: 250px;
     text-align: center;
-    margin-left: -266px;
+    margin-left: -265px;
 }
 #mobile-text:hover {
     background-color: #777777;
@@ -163,9 +163,9 @@ a:hover {
     margin-top: 143px;
     padding-top: 15px;
     padding-bottom: 15px;
-    width: 251px;
+    width: 250px;
     text-align: center;
-    margin-left: -267px;
+    margin-left: -265px;
 }
 #music-text:hover {
     background-color: #777777;
@@ -180,7 +180,7 @@ a:hover {
     padding-bottom: 15px;
     width: 250px;
     text-align: center;
-    margin-left: -266px;
+    margin-left: -265px;
 }
 #os-text:hover {
     background-color: #777777;
@@ -278,8 +278,8 @@ textarea {
         margin-left: 0px;
     }
     #psychic-text {
-        width: 200px;
-        margin-left: -215px;
+        width: 201px;
+        margin-left: -217px;
         margin-top: 90px;
     }
     #devices-text {
@@ -429,8 +429,8 @@ textarea {
         width: 450px;
     }
     #psychic-text {
-        width: 450px;
-        margin-left: -450px;
+        width: 451px;
+        margin-left: -452px;
         margin-top: 330px;
     }
     #psychic-image {
