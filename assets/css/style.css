@@ -105,6 +105,9 @@ a:hover {
 #psychic-image {
     border: 1px solid #777777;
 }
+#skyrim-image {
+    border: 1px solid #777777;
+}
 .portfolio-image {
     width: 250px;
     height: 200px;
@@ -115,11 +118,11 @@ a:hover {
     background-color: #4aaaa5;
     text-decoration: none;
     margin-top: 143px;
-    width: 251px;
+    width: 250px;
     text-align: center;
     padding-top: 15px;
     padding-bottom: 15px;
-    margin-left: -267px;
+    margin-left: -266px;
 }
 #psychic-text:hover {
     background-color: #777777;
@@ -140,7 +143,7 @@ a:hover {
     background-color: #777777;
 }
 
-#mobile-text {
+#skyrim-text {
     position: absolute;
     color: #ffffff;
     background-color: #4aaaa5;
@@ -150,9 +153,9 @@ a:hover {
     padding-bottom: 15px;
     width: 250px;
     text-align: center;
-    margin-left: -265px;
+    margin-left: -266px;
 }
-#mobile-text:hover {
+#skyrim-text:hover {
     background-color: #777777;
 }
 #music-text {
@@ -287,7 +290,7 @@ textarea {
         margin-left: -215px;
         margin-top: 90px;
     }
-    #mobile-text {
+    #skyrim-text {
         width: 200px;
     }
     #music-text {
@@ -308,11 +311,11 @@ textarea {
         margin-left: 270px;
         margin-top: -180px;
     }
-    #mobile-image {
+    #skyrim-image {
         margin-left: -450px;
         margin-top: 150px;
     }
-    #mobile-text {
+    #skyrim-text {
         margin-left: -450px;
         margin-top: 240px;
     }
@@ -445,12 +448,12 @@ textarea {
         margin-top: 30px;
         margin-left: 30px;
     }
-    #mobile-text {
+    #skyrim-text {
         width: 450px;
         margin-top: 760px;
         margin-left: -450px;
     }
-    #mobile-image {
+    #skyrim-image {
         margin-top: 430px;
     }
     #music-text {
