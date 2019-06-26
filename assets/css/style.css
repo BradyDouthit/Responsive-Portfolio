@@ -38,6 +38,10 @@ img {
     color: #777777;
     height: 110%;
 }
+#about-me {
+    padding-right: 8px;
+    border-right: 2px solid #dddddd;
+}
 #name {
     position: fixed;
     margin-left: 18.4%;
@@ -213,25 +217,13 @@ hr {
     border: 1px solid #dddddd;
     background-color: #dddddd;
 }
-.vertical-hr1 {
-    width: 0.5px;
-    position: absolute;
-    height: 100%;
-    margin-left: 75px;
-    margin-top: -18px;
-}
-.vertical-hr2 {
-    width: 0.5px;
-    position: absolute;
-    height: 100%;
-    margin-left: 148px;
-    margin-top: -18px;
-}
 #portfolio {
-    margin-left: 10px;
+    margin-left: 3px;
+    padding-right: 8px;
+    border-right: 2px solid #dddddd;
 }
 #contact {
-    margin-left: 10px;
+    margin-left: 3px;
 }
 a {
     text-decoration: none;
