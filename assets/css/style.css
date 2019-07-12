@@ -189,6 +189,21 @@ a:hover {
     text-align: center;
     margin-left: -265px;
 }
+#live-music-text {
+    position: absolute;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    text-decoration: none;
+    margin-top: 143px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 250px;
+    text-align: center;
+    margin-left: -265px;
+}
+#live-music-image {
+    margin-left: 21px;
+}
 #os-text:hover {
     background-color: #777777;
 }
@@ -368,6 +383,7 @@ textarea {
     #contact-email {
         width: 650px;
     }
+    
   }
 @media only screen and (max-width: 640px) {
     #index-main-content {
